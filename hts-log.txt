@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 Sep 2023 23:08:53 at https://olive-meeting-472578.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://olive-meeting-472578.framer.app/ -O1 "C:\My Web Sites\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:13:31	Error: 	"Not Found" (404) at link https://framerusercontent.com/modules/4y7a1HtdBwwmE7sqUcaf/2cJAoyDWDi8nWAvPxAU1/assets/PeAu0uv9tUXaeRrS6v9rh0Z8kE.png (from https://olive-meeting-472578.framer.app/about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 38 seconds : 216 links scanned, 214 files written (58551264 bytes overall) [56841265 bytes received at 204464 bytes/sec], 2139469 bytes transferred using HTTP compression in 9 files, ratio 10%, 43.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
